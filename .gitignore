@@ -4,3 +4,7 @@
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+
+__pycache__/
+.idea
+env
